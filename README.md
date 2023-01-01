@@ -16,7 +16,7 @@ Node.js with the following packages:
 - node-rdkafka 
 - socket.io 
 
-React.js with the following packages
+React.js with the following packages:
 - axios
 - gapi-script
 - highcharts
